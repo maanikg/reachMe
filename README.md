@@ -18,6 +18,6 @@ The process:
 This project was created within a 24-hour timeline as part of the NewHacks 2022 hackathon.
 
 ----
-
+### 💻 Tech Stack: 
 <img src="https://img.shields.io/badge/-JavaScript-31322f?style=flat&logo=javascript&logoColor=F7DF1E" height="30" alt = "Javascript"/> <img src="https://img.shields.io/badge/-React Native-282c34?style=flat&logo=react&logoColor=61DAFB" height="30" alt = "ReactNative" /> 
 <img src="https://img.shields.io/badge/-Google Maps API-4285F4?style=flat&logo=googlemaps&logoColor=eb4335" height="30" alt = "GoogleMaps" /> 
